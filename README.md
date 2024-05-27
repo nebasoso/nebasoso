@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me (https://www.linkedin.com/in/nebiyou-demisse)
 - 😄 Pronouns: Man,He,Him
-- ⚡ Fun fact: I never new about coading before 4 years ago
+- ⚡ Fun fact: I never new about coding before 4 years ago
 
 <!---
 nebasoso/nebasoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
